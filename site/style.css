@@ -1,0 +1,10 @@
+html {
+  background-color: cornflowerblue;
+}
+body {
+  background-color: white;
+  width: 700px;
+  margin: 20px auto 0;
+  padding: 30px;
+  box-sizing: border-box;
+}
